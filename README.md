@@ -57,7 +57,7 @@ repo/
 ├── model_loader.py        # EfficientNet model reconstruction + weight loader
 ├── gradcam_utils.py       # Grad-CAM++ implementation
 ├── infer.py               # Preprocessing + prediction utilities
-├── final_best_fast_model.pth
+├── final_breast_cancer_model.pth
 ├── tsne_plot.png          # Saved t-SNE plot
 ├── requirements.txt
 └── README.md
