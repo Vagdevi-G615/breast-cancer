@@ -1,6 +1,6 @@
 # README.md — EfficientNet-B0 Breast Cancer Classifier (Grad-CAM++ + t-SNE Dashboard)
 
-## 🚀 Overview
+##  Overview
 
 This project is an end-to-end breast cancer image classification system built using EfficientNet-B0, enhanced with:
 
@@ -25,7 +25,7 @@ The model classifies mammogram patches into three categories:
 
 ---
 
-## 🔍 Features
+## Features
 
 ### Image Classification
 
@@ -49,7 +49,7 @@ Three dashboard tabs:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 repo/
@@ -107,11 +107,3 @@ http://127.0.0.1:7860
 * `tsne_plot.png`
 
 Hugging Face will automatically build and serve your application.
-
----
-✅ Badges
-✅ HuggingFace Space preview screenshot
-✅ WandB logging section
-✅ Citation / BibTeX
-
-Just tell me and I’ll add it.
