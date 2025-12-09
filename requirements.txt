@@ -1,0 +1,11 @@
+gradio>=3.0
+torch
+torchvision
+timm
+pillow
+numpy
+pandas
+scikit-learn
+plotly
+pytorch-grad-cam
+
